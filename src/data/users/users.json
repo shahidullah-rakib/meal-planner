@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "john.doe@example.com",
+      "password": "123",
+      "name": "John Doe",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
+      "role": "user",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "lastLogin": "2025-09-21T09:31:22.559Z",
+      "preferences": {
+        "dietaryRestrictions": [
+          "vegetarian"
+        ],
+        "allergies": [],
+        "favoriteCategories": [
+          "italian",
+          "asian"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "email": "jane.smith@example.com",
+      "password": "$2a$10$8Q3vX2L4mN9pR7sT1uV6wE2yI5oK8nM3hG6fJ9cL2aS4dF7gH0iJ1",
+      "name": "Jane Smith",
+      "image": "https://images.unsplash.com/photo-1494790108755-2616b69b7e7d?w=150",
+      "role": "admin",
+      "createdAt": "2024-01-20T14:45:00.000Z",
+      "lastLogin": "2024-09-19T16:22:00.000Z",
+      "preferences": {
+        "dietaryRestrictions": [
+          "gluten-free"
+        ],
+        "allergies": [
+          "nuts"
+        ],
+        "favoriteCategories": [
+          "mediterranean",
+          "healthy"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "email": "demo@mealplanner.com",
+      "password": "$2a$10$demo123456789abcdefghijklmnopqrstuvwxyz",
+      "name": "Demo User",
+      "image": null,
+      "role": "user",
+      "createdAt": "2024-09-01T09:00:00.000Z",
+      "lastLogin": null,
+      "preferences": {
+        "dietaryRestrictions": [],
+        "allergies": [],
+        "favoriteCategories": []
+      }
+    }
+  ],
+  "socialUsers": [
+    {
+      "id": "social_1",
+      "email": "testgoogle@gmail.com",
+      "name": "Google Test User",
+      "image": "https://lh3.googleusercontent.com/a/default-user",
+      "provider": "google",
+      "providerId": "google_123456789",
+      "role": "user",
+      "createdAt": "2024-08-15T12:30:00.000Z",
+      "lastLogin": "2024-09-18T10:45:00.000Z",
+      "preferences": {
+        "dietaryRestrictions": [],
+        "allergies": [],
+        "favoriteCategories": [
+          "american",
+          "mexican"
+        ]
+      }
+    }
+  ]
+}
