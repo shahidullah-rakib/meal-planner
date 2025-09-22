@@ -1,0 +1,12 @@
+[
+  {
+    "id": "meal_1758523256375_whr6yirb4",
+    "userId": "1",
+    "date": "2025-09-23",
+    "mealType": "lunch",
+    "quantity": 1,
+    "status": "consumed",
+    "createdAt": "2025-09-22T06:40:56.375Z",
+    "updatedAt": "2025-09-22T07:12:21.539Z"
+  }
+]
