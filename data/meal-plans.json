@@ -8,5 +8,44 @@
     "status": "consumed",
     "createdAt": "2025-09-22T06:40:56.375Z",
     "updatedAt": "2025-09-22T07:12:21.539Z"
+  },
+  {
+    "id": "meal_1758565490208_a01wjejaj",
+    "userId": "1",
+    "date": "2025-09-23",
+    "mealType": "dinner",
+    "quantity": 1,
+    "status": "consumed",
+    "createdAt": "2025-09-22T18:24:50.208Z",
+    "updatedAt": "2025-09-25T20:11:21.942Z"
+  },
+  {
+    "id": "meal_1758831111836_f5ot3cau6",
+    "userId": "1",
+    "date": "2025-09-25",
+    "mealType": "dinner",
+    "quantity": 1,
+    "status": "consumed",
+    "createdAt": "2025-09-25T20:11:51.836Z",
+    "updatedAt": "2025-09-25T20:24:37.967Z"
+  },
+  {
+    "id": "meal_1759564430903_o9i3rqxfc",
+    "userId": "1",
+    "date": "2025-10-05",
+    "mealType": "lunch",
+    "quantity": 1,
+    "status": "consumed",
+    "createdAt": "2025-10-04T07:53:50.903Z",
+    "updatedAt": "2025-10-04T07:58:34.577Z"
+  },
+  {
+    "id": "meal_1759564520905_j9p0vliup",
+    "userId": "1",
+    "date": "2025-10-05",
+    "mealType": "dinner",
+    "quantity": 1,
+    "status": "planned",
+    "createdAt": "2025-10-04T07:55:20.905Z"
   }
 ]
