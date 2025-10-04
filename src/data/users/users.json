@@ -3,12 +3,12 @@
     {
       "id": "1",
       "email": "admin@example.com",
-      "password": "1234",
+      "password": "123456",
       "name": "John Doe",
       "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150",
       "role": "user",
       "createdAt": "2024-01-15T10:30:00.000Z",
-      "lastLogin": "2025-10-04T08:03:50.783Z",
+      "lastLogin": "2025-10-04T08:30:10.643Z",
       "preferences": {
         "dietaryRestrictions": [
           "vegetarian"

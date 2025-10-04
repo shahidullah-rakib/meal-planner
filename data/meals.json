@@ -1,0 +1,10 @@
+{
+  "meals": [
+    {
+      "id": "1759572006508",
+      "date": "2025-10-05",
+      "numberOfMeals": 2,
+      "mealType": "Breakfast & Lunch"
+    }
+  ]
+}
